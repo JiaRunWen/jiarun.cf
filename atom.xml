@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jiarun.github.io</id>
+    <title>Jia_Run | Blog</title>
+    <updated>2022-04-08T03:23:54.141Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jiarun.github.io"/>
+    <link rel="self" href="https://jiarun.github.io/atom.xml"/>
+    <logo>https://jiarun.github.io/images/avatar.png</logo>
+    <icon>https://jiarun.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Jia_Run | Blog</rights>
+</feed>
